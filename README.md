@@ -14,4 +14,4 @@ This README.md documents how the run_analysis.R function works
 
 6) Replace activity labels with something useful
 
-7) Write the final output
+7) Write the final outputs
