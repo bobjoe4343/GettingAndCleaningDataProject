@@ -11,7 +11,9 @@ CodeBook
   *	SITTING
   *	STANDING
   *	LAYING
-+	__MEASUREMENTS__ 
++	OTHER COLUMNS - Remaing columns are measurements in the following format: 
+  * _Type of measurement___Suffix_
+  * i.e. fBodyGyro_std()-X
 
 
 
